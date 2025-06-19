@@ -75,7 +75,7 @@ This project is not certified for medical, life safety, or critical infrastructu
 
 To purchase a commercial or source code license and gain access to the private repository:
 
-1. Visit the [Buy Page](https://yourstore.gumroad.com/l/smartlight)
+1. Visit the [Buy Page](https://buy.stripe.com/8x28wO3GGgaEcc26Iddwc00)
 2. Provide your GitHub username during checkout
 3. You'll receive private repository access within 24 hours
 
